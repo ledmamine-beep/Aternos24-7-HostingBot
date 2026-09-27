@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Kenpa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "StoormSMP.aternos.me",
+    "port": 56240,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "&#6270E2ᴡ&#5C6CDCᴇ&#5669D7ʟ&#4F65D1ᴄ&#4962CCᴏ&#435EC6ᴍ&#3D5BC1ᴇ &#3054B6ᴛ&#2A50B0ᴏ &#1E49A5ᴏ&#1846A0ᴜ&#11429Aʀ &#053B8Fѕᴛᴏʀᴍѕᴍᴘ ѕᴇʀᴠᴇʀ!",
+        "&#6270E2ᴊ&#5B6CDCᴏ&#5568D6ɪ&#4E65D0ɴ &#415DC4ᴏ&#3A59BEᴜ&#3456B9ʀ &#264EADᴅ&#204AA7ɪ&#1946A1ѕ&#12439Bᴄ&#0C3F95ᴏ&#053B8Fʀ&#0C3F95ᴅ &#1A47A2ѕ&#224BA9ᴇ&#294FAFʀ&#3053B5ᴠ&#3758BCᴇ&#3E5CC2ʀ &#4D64CFɴ&#5468D5ᴏ&#5B6CDCᴡ&#6270E2!"
       ]
     },
     "chat-log": true,
